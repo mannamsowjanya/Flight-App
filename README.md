@@ -1,15 +1,7 @@
-# react-CyberSrishti-FlightBooking
-A react based flight booking web app
+# Flight Ticket Management app
+A react based flight management app
 
 #Instructions
-The JSON server runs only in dev mode, not optimised for production
+To run the app, use https://mannamsowjanya.github.io/Flight-App/
 
-##Setup
-```npm install```
-
-then
-
-```npm run start ```
-
-##For build
-```npm run build```
+Goto master branch to view source files.
